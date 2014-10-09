@@ -1,4 +1,4 @@
 pipe
 ====
 
-Provide functional style interface to pipe sources, transform them and more
+Pipe data, transform data, filter data and lot more

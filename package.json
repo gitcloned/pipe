@@ -1,0 +1,39 @@
+{
+  "name": "node-piper",
+  "version": "1.0.0",
+  "description": "Provide functional style interface to pipe sources, transform them and more",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "extend": "^2.0.0",
+    "eyes": "^0.1.8",
+    "fast-csv": "^0.5.2",
+    "moment": "^2.8.3",
+    "mssql": "^1.2.1",
+    "queue-async": "^1.0.7",
+    "colors": "^1.0.3",
+    "mongodb": "^1.4.18",
+    "needle": "^0.7.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitcloneashish/pipe.git"
+  },
+  "keywords": [
+    "pipe",
+    "stream"
+  ],
+  "author": "Ashish Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitcloneashish/pipe/issues"
+  },
+  "homepage": "https://github.com/gitcloneashish/pipe"
+}
